@@ -1,0 +1,36 @@
+body{
+    background-color: #D1FFF3
+
+}
+ul{
+ text-align: center;
+ list-style-type: none;
+}
+/**********************HAKKIMIZDA*********/
+.hakkimizda{
+    text-align: center;
+    font-size: small;
+    color: black;
+
+}
+.hakkimizda-h1{
+    color: red;
+    font-size: medium;
+    
+}
+.hakkimizda-h2{
+    color:red;
+    font-size: medium;
+}
+/********************HAKKIMIZDA*************/
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom:5px;
+    border-radius: 8px;
+    width: 30%;
+}
+.projelerimiz-p{
+    text-align: center;
+}
